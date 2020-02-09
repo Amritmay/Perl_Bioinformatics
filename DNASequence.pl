@@ -1,3 +1,4 @@
+#To concatenate DNA sequence using perl
 #!/usr/bin/perl
 $Dog = 'ATTAACGGA';
 print "Dog : $Dog\n";
