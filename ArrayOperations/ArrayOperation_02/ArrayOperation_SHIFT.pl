@@ -1,6 +1,6 @@
 #!/usr/bin/perl
 
-# Usage of shift command to remove first element.
+#To perform shift operation in array using perl
 
 @bases = ('A', 'G', 'C', 'T');
 $base1 = shift@bases;
