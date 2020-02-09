@@ -1,6 +1,6 @@
 #!/usr/bin/perl
 
-#Determining length of array.
+#To find length of an array in perl
 
 @DNA = ('A', 'G', 'C', 'T');
 $length = scalar(@DNA);
