@@ -1,6 +1,6 @@
 #!/usr/bin/perl
 
-#To perform various array operations using perl.
+#To perform pop operation in array using perl
 
 @bases = ('A', 'G', 'C', 'T');
 $base1 = pop@bases;
