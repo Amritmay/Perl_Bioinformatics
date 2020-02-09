@@ -1,6 +1,6 @@
 #!/usr/bin/perl
 
-# usage of unshift command.
+# To perform unshift and push operation in array using perl
 
 @bases = ('A', 'G', 'C', 'T');
 print "The array of bases: @bases\n";
